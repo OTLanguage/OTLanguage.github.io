@@ -76,7 +76,7 @@
         }<br/>
         <otl-p>&lt;&lt;ㅇㅅㅇ&gt;&gt; 9090</otl-p><br/>
       </otl-code>
-      <a class="banner" href="/Poison"><img src="../assets/banner/Poison-banner.png" alt="OTLanguage"></a>
+      <a class="banner" href="/Poison"><img src="@/assets/banner/Poison-banner.png" alt="OTLanguage"></a>
     </div>
     <!-- Poison -->
     <div class="main-middle">
